@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SwivanoLIPI
+- 👋 Hi, I’m @SwivanoBRIN
 - 👀 I’m interested in Programming and Instrumentation
 - 🌱 I’m currently learning FPGA
 - 💞️ I’m looking to collaborate on Data Acqusition Project in Visual basic
